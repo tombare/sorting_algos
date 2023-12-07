@@ -44,7 +44,7 @@
 
 <!----------------------------------------------------------------------------->
 
-[Website]: https://insolitum.github.io/sorting_algos
+[Website]: https://tombare.github.io/sorting_algos
 
 [Insertion Sort]: https://en.wikipedia.org/wiki/Insertion_sort
 [Selection Sort]: https://en.wikipedia.org/wiki/Selection_sort
